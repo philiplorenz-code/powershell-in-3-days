@@ -1,1 +1,1 @@
-# powershell-in-3-days
+docker-compose up -d --build
