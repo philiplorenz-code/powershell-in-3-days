@@ -1,8 +1,8 @@
 ---  
 id: loesungen-aufgabenblock-1-tag-2  
-title: Lösungen – Tag 2 - Aufgabenblock 1  
-sidebar_position: 11  
----  
+title: Lösungen – Tag 2 - Aufgabenblock 1 – Vergleichsoperatoren, Verzweigungen & Schleifen  
+sidebar_position: 20  
+---
 
 # 💡 Lösung zu Aufgabe 1 – Vergleichsoperatoren  
 ```powershell

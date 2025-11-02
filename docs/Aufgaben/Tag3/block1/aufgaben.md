@@ -1,8 +1,8 @@
 ---  
-id: aufgabenblock-1-skriptaufbau-funktionen-debugging  
+id: aufgabenblock-1-tag-3  
 title: Tag 3 - Aufgabenblock 1 – Skriptstruktur, Funktionen, Fehlerbehandlung & Debugging  
-sidebar_position: 10
----  
+sidebar_position: 10  
+---
 
 ## 🧩 Aufgaben-Checkliste  
 1. Skriptheader & Struktur aufbauen  

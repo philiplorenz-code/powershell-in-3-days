@@ -2,7 +2,7 @@
 id: aufgabenblock-1-tag-2  
 title: Tag 2 - Aufgabenblock 1 – Vergleichsoperatoren, Verzweigungen & Schleifen  
 sidebar_position: 10  
----  
+---
 
 ## 🧩 Aufgaben-Checkliste  
 1. Vergleichsoperatoren praktisch anwenden  

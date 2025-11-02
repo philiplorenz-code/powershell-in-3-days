@@ -1,8 +1,8 @@
 ---  
 id: loesungen-aufgabenblock-2-tag-1  
-title: Lösungen – Tag 1 - Aufgabenblock 2
-sidebar_position: 21  
----  
+title: Lösungen – Tag 1 - Aufgabenblock 2 – Navigation, Provider & Aliases  
+sidebar_position: 20  
+---
 
 # 💡 Lösung zu Aufgabe 1 – Navigation im Dateisystem  
 ```powershell

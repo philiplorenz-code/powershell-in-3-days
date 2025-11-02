@@ -1,8 +1,8 @@
 ---  
-id: loesungen-aufgabenblock-1-skriptaufbau-funktionen-debugging  
-title: Lösungen – Tag 3 - Skriptstruktur, Funktionen, Fehlerbehandlung & Debugging  
-sidebar_position: 20
----  
+id: loesungen-aufgabenblock-1-tag-3  
+title: Lösungen – Tag 3 - Aufgabenblock 1 – Skriptstruktur, Funktionen, Fehlerbehandlung & Debugging  
+sidebar_position: 20  
+---
 
 # 💡 Lösung zu Aufgabe 1 – Skriptheader & Struktur  
 ```powershell

@@ -1,7 +1,7 @@
 ---  
 id: aufgabenblock-1-tag-1  
 title: Tag 1 - Aufgabenblock 1 – Grundlagen und Umgebung  
-sidebar_position: 10 
+sidebar_position: 10  
 ---
 
 # 🧠 Aufgabe 1 – PowerShell vs. CMD

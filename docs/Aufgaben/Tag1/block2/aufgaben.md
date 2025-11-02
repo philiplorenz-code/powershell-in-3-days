@@ -1,7 +1,7 @@
 ---  
 id: aufgabenblock-2-tag-1  
 title: Tag 1 - Aufgabenblock 2 – Navigation, Provider & Aliases  
-sidebar_position: 20  
+sidebar_position: 10  
 ---
 
 # 🧠 Aufgabe 1 – Navigation im Dateisystem  

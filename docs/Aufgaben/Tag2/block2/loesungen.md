@@ -1,8 +1,8 @@
 ---  
-id: loesungen-aufgabenblock-1-csv-prozess-remoting-module  
-title: Lösungen – Tag 2 - CSV, Prozesse, Remoting & Module  
+id: loesungen-aufgabenblock-2-tag-2  
+title: Lösungen – Tag 2 - Aufgabenblock 2 – CSV, Prozesse, Remoting & Module  
 sidebar_position: 20  
----  
+---
 
 # 💡 Lösung zu Aufgabe 1 – CSV-Dateien analysieren  
 ```powershell

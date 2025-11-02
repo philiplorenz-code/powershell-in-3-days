@@ -1,8 +1,8 @@
 ---  
-id: aufgabenblock-2-csv-prozess-remoting-module  
+id: aufgabenblock-2-tag-2  
 title: Tag 2 - Aufgabenblock 2 – CSV, Prozesse, Remoting & Module  
-sidebar_position: 90  
----  
+sidebar_position: 10  
+---
 
 ## 🧩 Aufgaben-Checkliste  
 1. CSV-Dateien importieren, filtern und exportieren  

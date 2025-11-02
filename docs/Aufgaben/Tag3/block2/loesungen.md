@@ -1,8 +1,8 @@
 ---  
-id: loesungen-aufgabenblock-2-webapi-cim-schedule-logging  
-title: Lösungen – Tag 3 - Web-APIs, WMI / CIM, Scheduling & Logging  
-sidebar_position: 111  
----  
+id: loesungen-aufgabenblock-2-tag-3  
+title: Lösungen – Tag 3 - Aufgabenblock 2 – Web-APIs, WMI / CIM, Scheduling & Logging  
+sidebar_position: 20  
+---
 
 # 💡 Lösung 1 – GitHub-API  
 ```powershell

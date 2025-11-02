@@ -1,8 +1,8 @@
 ---  
-id: aufgabenblock-1-webapi-cim-schedule-logging  
-title: Tag 3 - Aufgabenblock 1 – Web-APIs, WMI / CIM, Scheduling & Logging  
-sidebar_position: 10
----  
+id: aufgabenblock-2-tag-3  
+title: Tag 3 - Aufgabenblock 2 – Web-APIs, WMI / CIM, Scheduling & Logging  
+sidebar_position: 10  
+---
 
 ## 🧩 Aufgaben-Checkliste  
 1. Mit öffentlichen Web-APIs über Invoke-RestMethod arbeiten  
