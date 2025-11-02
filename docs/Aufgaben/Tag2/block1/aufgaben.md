@@ -65,7 +65,7 @@ sidebar_position: 10
    - mit `for`  
    - mit `while`  
 3. Ergänze in jeder Schleife eine Ausgabe wie:  
-   `"Aktuelle Zahl: <Wert>"`  
+   `"Aktuelle Zahl: Wert"`  
 
 > **Ziel:** Unterschiede der Schleifenarten kennenlernen.  
 
@@ -87,7 +87,7 @@ sidebar_position: 10
 3. Prüfe innerhalb der Schleife:  
    - Wenn die Stadt „Berlin“ ist → Ausgabe: „Hauptstadt gefunden!“  
    - Wenn die Stadt mit „L“ beginnt → Ausgabe: „Stadt mit L gefunden.“  
-   - Sonst → Ausgabe: „Andere Stadt: <Name>“  
+   - Sonst → Ausgabe: „Andere Stadt: Name“  
 
 > **Ziel:** Vergleichsoperatoren, logische Ausdrücke und Schleifen kombinieren.  
 
