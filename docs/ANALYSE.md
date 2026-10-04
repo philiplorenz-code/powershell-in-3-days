@@ -123,17 +123,18 @@ Die drei Tage bleiben erhalten. Verschoben werden nur Kapitel, die gegen die Reg
 9. Module verwenden
 
 **Tag 3 – Skripte und Praxis**
-1. Skripte strukturiert aufbauen
-2. Funktionen und Parameterblöcke
-3. Eigene Module bauen *(von Tag 2 verschoben)*
+1. Funktionen und Parameter *(vor „Skripte aufbauen" gezogen, weil dieses Kapitel Funktionen nutzt)*
+2. Skripte strukturiert aufbauen
+3. Eigene Module bauen *(von Tag 2 verschoben, Optional)*
 4. Fehlerbehandlung
 5. Debugging
-6. Anmeldeinformationen und SecretManagement
-7. Web-APIs
+6. Anmeldeinformationen und Geheimnisse (SecretManagement)
+7. Web-APIs (Optional)
 8. WMI/CIM
 9. Skripte planen (ScheduledTasks statt ScheduledJob)
 10. Logging und Transcripts
-11. **Optional: PowerShell im Zeitalter von KI** (ca. halber Tag, vollständig abkoppelbar)
+11. Abschlussprojekt
+12. **Optional: PowerShell im Zeitalter von KI** (ca. halber Tag, vollständig abkoppelbar)
 
 ## 6. Lab-Bedarf (abgeleitet aus den Übungen)
 
