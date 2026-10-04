@@ -17,3 +17,5 @@ infrastructure/**/crash.log
 # Betriebssystem
 .DS_Store
 Thumbs.db
+slides/node_modules/
+slides/out/
